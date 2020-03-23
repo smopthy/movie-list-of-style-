@@ -1,0 +1,14 @@
+.modal-body {
+    display: flex;
+    justify-content: space-evenly ;
+}
+
+.list-group {
+    margin: 0px;
+}
+
+
+.gerners {
+        font-size: 0.5px;
+
+}
